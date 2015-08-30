@@ -1,0 +1,5 @@
+*.tif
+*.TIF
+Data_for_the_Halo_paper/
+Data_with_phase_wrapping_during_mitosis/
+SLIM_code_for_Tan&Tom/*.TIF

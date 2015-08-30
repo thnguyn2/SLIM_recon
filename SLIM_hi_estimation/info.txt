@@ -1,0 +1,2 @@
+-The image are taken by rotating the z2 image by 2 degree, crop it
+-Pixel ratio: 15 pixel/microns
